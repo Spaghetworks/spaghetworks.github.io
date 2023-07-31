@@ -1,3 +1,3 @@
-- [ ] [Impulse Tool](developers-guide/character-tools/impulse-tool)
+- [ ] [Impulse Tool](../character-tools/impulse-tool)
 - [ ] Flag
 - [ ] Sampling Kit
