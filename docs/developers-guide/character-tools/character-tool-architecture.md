@@ -10,5 +10,6 @@ Tools respond to the following inputs:
 - Secondary action (RMB)
 - Tertiary action / mode switch (MMB)
 - Range up/down (wheel up and down)
+- Equip / unequip
 
 Primary / secondary / tertiary action inputs are passed as keyup and keydown. Range up/down is passed as keypress.

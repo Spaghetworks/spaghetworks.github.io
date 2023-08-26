@@ -13,9 +13,11 @@ The intent for the primary action is a quick, consistent, and spatiotemporally p
 
 ## Secondary (RMB)
 
+`NOT YET IMPLEMENTED`
 When RMB is pressed, the view is locked. Mouse directional inputs choose the characteristic vector (which is orthogonal to the view axis) and the magnitude within the range.
 The intent for the secondary action is an application of impulse that is precise by direction and magnitude.
 
 ## Tertiary (MMB)
 
+`NOT YET IMPLEMENTED`
 On MMB press, switch between linear and angular modes.
